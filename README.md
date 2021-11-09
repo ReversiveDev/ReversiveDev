@@ -2,7 +2,7 @@
 ## Prazer, me chamo Richard, adoro desafios e projetos que me façam pensar e aprender muito, e meu objetivo é ter um projeto grande e ser um dos melhores no que faço.
 
 ```js
-You.giveStarTo(Github.users["ReversiveDev"]);
+You.follow(Github.users["ReversiveDev"]);
 ```
 
 ### Status
