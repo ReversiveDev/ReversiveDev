@@ -1,5 +1,5 @@
 # Olá Mundo!
-## Prazer, me chamo Richard, adoro desafios e projetos que me façam pensar e aprender muito, e meu objetivo é ter um projeto grande e ser um dos melhores no que faço.
+## Prazer, adoro desafios e projetos que me façam pensar e aprender muito, meu objetivo é ter um projeto grande e ser um dos melhores no que faço.
 
 ## Linguagens
 <div>
