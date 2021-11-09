@@ -1,3 +1,3 @@
-### console.log(`Olá ${user.name}, me chamo Richard.`); 
+### console.log(\`Olá ${user.name}, me chamo Richard.\`); 
 
 
