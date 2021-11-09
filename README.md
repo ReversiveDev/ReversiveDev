@@ -7,7 +7,7 @@ You->Follow(Github.GetUser(userName));
 ```
 
 ## Linguagens
-<img align="center" alt="JavaScript Logo" height="28" width="127" src="https://img.shields.io/badge/C++-323330?&logo=cplusplus&style=flat-square&logoColor=659ad2">
+<img align="center" alt="JavaScript Logo" height="28" width="100" src="https://img.shields.io/badge/C++-323330?&logo=cplusplus&style=flat-square&logoColor=659ad2">
 
 ### Status
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=ReversiveDev&show_icons=true&title_color=20dcc9&bg_color=0d1117&text_color=ffffff&icon_color=20dcc9)](https://github.com/ReversiveDev)
