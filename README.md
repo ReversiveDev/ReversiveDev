@@ -1,10 +1,15 @@
 # Olá Mundo!
 ## Prazer, adoro desafios e projetos que me façam pensar e aprender muito, meu objetivo é ter um projeto grande e ser um dos melhores no que faço.
 
-## Linguagens
+## Linguagens que programo
 <div>
   <img align="center" alt="JavaScript Logo" src="https://img.shields.io/badge/C++-323330?&logo=cplusplus&style=flat-square&logoColor=659ad2">
   <img align="center" alt="JavaScript Logo" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E">
+</div>
+
+## Linguagens que estudo
+<div>
+  <img align="center" alt="JavaScript Logo" src="https://img.shields.io/badge/Rust-323330?&logo=rust&style=flat-square&logoColor=659ad2%22">
 </div>
 
 ### Status
