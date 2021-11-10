@@ -3,8 +3,8 @@
 
 ## Linguagens que programo
 <div>
-  <img align="center" alt="JavaScript Logo" src="https://img.shields.io/badge/C++-323330?&logo=cplusplus&style=flat-square&logoColor=659ad2">
-  <img align="center" alt="JavaScript Logo" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E">
+  <img href="https://docs.microsoft.com/en-us/cpp/cpp/cpp-language-reference?view=msvc-170" align="center" alt="" src="https://img.shields.io/badge/C++-323330?&logo=cplusplus&style=flat-square&logoColor=659ad2">
+  <img href="" align="center" alt="JavaScript Logo" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E">
 </div>
 
 ## Linguagens que estudo
